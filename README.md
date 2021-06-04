@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="./assets/hi.gif" width='40' align="left"/><h2>Hey there! I'm Shudipto Trafder</h2>
 
 
-- 🌱 Focusing on On Device ML.
+- 🌱 Focusing: On Device ML.
 - 🏆 2021 Goals: Contribute more to Open Source Projects.
 - Download Latest Resume [GDrive](https://drive.google.com/file/d/1jV0Wqatb3m-GgHWTqspK2xXNMEx3XgGF/view?usp=sharing)
 
@@ -49,11 +49,15 @@
 <br> </br>
 ## 🛠 &nbsp; Open source projects
 
-- Password Manager
-<br> </br>
+- [Password Manager](https://github.com/Iamsdt/password_manager)
+- [Predict Mortality for Heart Failure](https://github.com/Iamsdt/Udacity-ML-Azure-Capstone)
+- [Sticker Generator](https://github.com/Iamsdt/StickerGenerator)
+- [Disease detection Project using Chest X-ray Database](https://github.com/Iamsdt/Disease-detection-using-chest-xrays)
+- [Soil Science Dictionary](https://github.com/Iamsdt/SoilScienceDictionary)
+- [Music Player](https://github.com/Iamsdt/MusicPlayer)
 
-#### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
-### ⚙ &nbsp;GitHub Analytics
+<br> </br>
+## ⚙ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/iamsdt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamsdt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -62,7 +66,7 @@
 </p>
 
 <br> </br>
-### Connect me:
+## Connect me:
 
 <a href="https://www.linkedin.com/in/iamsdt/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:shudiptotrafder@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
