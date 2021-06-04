@@ -1,8 +1,8 @@
 <img alt="Night Coding" src="./assets/hi.gif" width='40' align="left"/><h2>Hey there! I'm Shudipto Trafder</h2>
 
 
-- 🌱 Focusing: On Device ML.
-- 🏆 2021 Goals: Contribute more to Open Source Projects.
+- 🌱 Focusing: On Device ML
+- 🏆 2021 Goals: Contribute more to Open Source Projects
 - Reading: Lean Startup
 - Quotes: Work hard in silence let success make the noise
 - Latest Resume: [Google Drive](https://drive.google.com/file/d/1SOLM27Gk_j4jMB5t5-KWyfV7r5Udt3Hj/view?usp=sharing)
