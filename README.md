@@ -1,10 +1,9 @@
 <img alt="Night Coding" src="./assets/hi.gif" width='40' align="left"/><h2>Hey there! I'm Shudipto Trafder</h2>
 
 
-- 🌱 I am currently learning more about backend development.
+- 🌱 Focusing on On Device ML.
 - 🏆 2021 Goals: Contribute more to Open Source Projects.
-- 😄 Pronouns: He/Him
-- Download Latest Resume ()[]
+- Download Latest Resume [GDrive](https://drive.google.com/file/d/1jV0Wqatb3m-GgHWTqspK2xXNMEx3XgGF/view?usp=sharing)
 
 ## 🛠 &nbsp;Tech Stack
 <!-- Programming languages -->
@@ -52,6 +51,8 @@
 
 - Password Manager
 <br> </br>
+
+#### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
 ### ⚙ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/iamsdt">
