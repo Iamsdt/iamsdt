@@ -3,9 +3,8 @@
 
 - 🌱 I am currently learning more about backend development.
 - 🏆 2021 Goals: Contribute more to Open Source Projects.
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/bardiesel/)
 - 😄 Pronouns: He/Him
-- :Amazon_AWS: Icon
+- Download Latest Resume ()[]
 
 ## 🛠 &nbsp;Tech Stack
 <!-- Programming languages -->
