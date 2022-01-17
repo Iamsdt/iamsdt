@@ -5,7 +5,7 @@
 - 🏆 2021 Goals: Contribute more to Open Source Projects
 - Reading: Lean Startup
 - Quotes: Work hard in silence let success make the noise
-- Latest Resume: [Google Drive](https://drive.google.com/file/d/1cbQsPJfh0Qc4YL_9c7vmv0ZMVrNPOhLz/view?usp=sharing)
+- Latest Resume: [Google Drive](https://drive.google.com/file/d/1jV0Wqatb3m-GgHWTqspK2xXNMEx3XgGF/view?usp=sharing)
 - Fun fact: Crushed on two F, Flutter and FastApi
 
 ### 🛠 &nbsp;Tech Stack
