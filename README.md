@@ -5,7 +5,7 @@
 - 🏆 2022 Goals: Learn To Scale
 - Reading: The power of your subconscious mind
 - Quotes: Work hard in silence let success make the noise
-- Latest Resume: [Google Drive](https://drive.google.com/file/d/1jV0Wqatb3m-GgHWTqspK2xXNMEx3XgGF/view?usp=sharing)
+- Latest Resume: [Google Drive](https://drive.google.com/file/d/14M9eTlRXtsgyj_RV-rOsou5PVwafsVjI/view?usp=sharing)
 
 ### 🛠 &nbsp;Tech Stack
 <!-- Programming languages -->
