@@ -1,12 +1,11 @@
 <img alt="Night Coding" src="./assets/hi.gif" width='40' align="left"/><h2>Hey there! I'm Shudipto Trafder</h2>
 
 
-- 🌱 Focusing: On Device ML
-- 🏆 2021 Goals: Contribute more to Open Source Projects
-- Reading: Lean Startup
+- 🌱 Focusing: Cloud and Scaling
+- 🏆 2022 Goals: Learn To Scale
+- Reading: The power of your subconscious mind
 - Quotes: Work hard in silence let success make the noise
 - Latest Resume: [Google Drive](https://drive.google.com/file/d/1jV0Wqatb3m-GgHWTqspK2xXNMEx3XgGF/view?usp=sharing)
-- Fun fact: Crushed on two F, Flutter and FastApi
 
 ### 🛠 &nbsp;Tech Stack
 <!-- Programming languages -->
