@@ -1,8 +1,5 @@
 <img alt="Night Coding" src="./assets/hi.gif" width='40' align="left"/><h2>Hey there! I'm Shudipto Trafder</h2>
 
-
-- 🌱 Focusing: Cloud and Scaling
-- 🏆 2022 Goals: Learn To Scale
 - Reading: The power of your subconscious mind
 - Quotes: Work hard in silence let success make the noise
 - Latest Resume: [Google Drive](https://drive.google.com/file/d/14M9eTlRXtsgyj_RV-rOsou5PVwafsVjI/view?usp=sharing)
