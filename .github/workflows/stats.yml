@@ -1,0 +1,65 @@
+name: stats
+on:
+  schedule:
+    - cron: "47 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: profile-commit
+  cancel-in-progress: false
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    env:
+      # personal token for private contributions if the secret exists, else the built-in one
+      TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
+      STATS: show_icons=true&count_private=true&hide_border=true&bg_color=00000000
+      LANGS: layout=compact&langs_count=8&hide_border=true&bg_color=00000000
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&${{ env.STATS }}&theme=default
+          path: profile/stats-light.svg
+          token: ${{ env.TOKEN }}
+          fail_on_error: true
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&${{ env.STATS }}&theme=dark
+          path: profile/stats-dark.svg
+          token: ${{ env.TOKEN }}
+          fail_on_error: true
+
+      - name: Top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&${{ env.LANGS }}&theme=default
+          path: profile/top-langs-light.svg
+          token: ${{ env.TOKEN }}
+          fail_on_error: true
+
+      - name: Top languages card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&${{ env.LANGS }}&theme=dark
+          path: profile/top-langs-dark.svg
+          token: ${{ env.TOKEN }}
+          fail_on_error: true
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "Update stats cards"
+          git pull --rebase
+          git push

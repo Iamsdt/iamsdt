@@ -79,8 +79,14 @@ I write on [Medium](https://medium.com/@iamsdt) and [LinkedIn](https://www.linke
 ---
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamsdt&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&cache_seconds=86400" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsdt&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&cache_seconds=86400" alt="top languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg"/>
+    <img height="160" src="profile/stats-light.svg" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg"/>
+    <img height="160" src="profile/top-langs-light.svg" alt="Top languages"/>
+  </picture>
 </p>
 
 <sub>Work hard in silence, let success make the noise.</sub>
